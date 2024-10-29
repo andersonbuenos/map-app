@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+    <name>cg_chile</name>
+    <gx:CascadingStyle kml:id="__managed_style_0680B1C6CE339AB4E5D7">
+        <Style>
+            <IconStyle>
+                <scale>1.2</scale>
+                <Icon>
+                    <href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+                </Icon>
+                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+            </IconStyle>
+            <LabelStyle>
+            </LabelStyle>
+            <LineStyle>
+                <color>ff2dc0fb</color>
+                <width>6</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>40ffffff</color>
+            </PolyStyle>
+            <BalloonStyle>
+                <displayMode>hide</displayMode>
+            </BalloonStyle>
+        </Style>
+    </gx:CascadingStyle>
+    <gx:CascadingStyle kml:id="__managed_style_1B96FD3768339AB4E5D6">
+        <Style>
+            <IconStyle>
+                <Icon>
+                    <href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+                </Icon>
+                <hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+            </IconStyle>
+            <LabelStyle>
+            </LabelStyle>
+            <LineStyle>
+                <color>ff2dc0fb</color>
+                <width>4</width>
+            </LineStyle>
+            <PolyStyle>
+                <color>40ffffff</color>
+            </PolyStyle>
+            <BalloonStyle>
+                <displayMode>hide</displayMode>
+            </BalloonStyle>
+        </Style>
+    </gx:CascadingStyle>
+    <StyleMap id="__managed_style_01D1F9B0C8339AB4E5D6">
+        <Pair>
+            <key>normal</key>
+            <styleUrl>#__managed_style_1B96FD3768339AB4E5D6</styleUrl>
+        </Pair>
+        <Pair>
+            <key>highlight</key>
+            <styleUrl>#__managed_style_0680B1C6CE339AB4E5D7</styleUrl>
+        </Pair>
+    </StyleMap>
+    <Placemark id="0900124911339AB4E5D5">
+        <name>Caminho sem título</name>
+        <LookAt>
+            <longitude>-72.99036711817658</longitude>
+            <latitude>-25.19118055015976</latitude>
+            <altitude>148.1790115495876</altitude>
+            <heading>0</heading>
+            <tilt>0</tilt>
+            <gx:fovy>30.00038059185432</gx:fovy>
+            <range>2668651.553566754</range>
+            <altitudeMode>absolute</altitudeMode>
+        </LookAt>
+        <styleUrl>#__managed_style_01D1F9B0C8339AB4E5D6</styleUrl>
+        <LineString>
+            <coordinates>
+                -54.62047686093037,-20.46560803993393,0 
+                -70.31253882596916,-27.37723322194802,0 
+            </coordinates>
+        </LineString>
+    </Placemark>
+</Document>
+</kml>
+
